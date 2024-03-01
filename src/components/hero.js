@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom'; 
-import IntroImg from '../assets/spider.webp'; 
+import IntroImg from 'spider.webp'; 
 import "./body.css"
 
 
