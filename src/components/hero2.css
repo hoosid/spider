@@ -6,7 +6,7 @@
 }
 .hero-img::before{
     content: "";
-    background: url('file:///c%3A/Users/user/Desktop/react1.js/my-app/src/assets/spider-2.webp'); 
+    background: url('spider-2.webp'); 
     background-size: cover;
     background-position: center top;
     width: 100%;
